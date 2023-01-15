@@ -1,0 +1,55 @@
+.table-wrapper {
+
+    .header-matches {
+        display: flex;
+        justify-content: space-around;
+
+    }
+
+    .teams-wrapper {
+        display: flex;
+        justify-content: center; 
+        align-items: center;
+
+        .cross {
+            color: #A1A3A5;
+            margin: 0 0.5rem;
+        }
+
+        .series-score {
+            color: #A1A3A5;
+            margin: 0 0.5rem;
+        }
+
+        .score {
+            min-width: 1rem;
+        }
+
+        .team-info {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-grow: 1;
+            flex-basis: 0;
+
+            img {
+                margin: 0 0.5rem;
+            }
+
+            &:first-child {
+                justify-content: right;
+                span {
+                    text-align: right;
+                }
+            }
+
+            &:last-child {
+                justify-content: left;
+                span {
+                    text-align: left;
+                }
+            }
+
+        }
+    }
+}

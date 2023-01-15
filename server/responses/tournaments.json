@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "shortName": "UML 1819",
+    "name": "United Masters League 2018-2019"
+  },
+  {
+    "id": 2,
+    "shortName": "Dota PIT 2019 Minor",
+    "name": "Dota PIT 2019 Minor"
+  },
+  {
+    "id": 3,
+    "shortName": "HotShot Series S2",
+    "name": "HotShot Series Season 2"
+  },
+  {
+    "id": 4,
+    "shortName": "Blast Pro Miami 2019",
+    "name": "Blast Pro Series Miami 2019"
+  },
+  {
+    "id": 5,
+    "shortName": "BP Madrid 2019",
+    "name": "Blast Pro Series Madrid 2019"
+  },
+  {
+    "id": 6,
+    "shortName": "ECS Season 7",
+    "name": "ECS Season 7"
+  },
+  {
+    "id": 7,
+    "shortName": "HotShot Season 3",
+    "name": "HotShot Series Season 3"
+  },
+  {
+    "id": 8,
+    "shortName": "StarLadder Minor S2",
+    "name": "StarLadder ImbaTV Dota 2 Minor Season 2"
+  },
+  {
+    "id": 9,
+    "shortName": "StarLadder S2 Finals",
+    "name": "StarLadder ImbaTV Dota 2 Minor Season 2 Finals"
+  },
+  {
+    "id": 10,
+    "shortName": "BP Los Angeles 2019",
+    "name": "Blast Pro Series Los Angeles 2019"
+  }
+]

@@ -1,0 +1,59 @@
+$color-GRID-Base-0: #FFFFFF;
+$color-GRID-Base-40: #A1A3A5;
+$color-GRID-Base-85: #363B3F;
+$color-GRID-Base-90: #2B3135;
+
+.table {
+    font-family: 'Montserrat', sans-serif;
+    font-size: .75rem;
+    border-collapse: collapse;
+
+    thead {
+        text-transform: uppercase;
+        background-color: $color-GRID-Base-85;
+        font-weight: 600;
+        color: $color-GRID-Base-40;
+
+        tr {
+            th {
+            padding: 1rem;  
+
+                > input {
+                    display: block;
+                    margin: auto;
+                    background-color: transparent;
+                    border: 1px solid #ccc;
+                    border-radius: 4px;
+                    min-height: 22px;
+                    color: $color-GRID-Base-40;
+                }
+
+                :global .chip {
+                    background-color: $color-GRID-Base-40;
+                }
+
+                :global .highlightOption {
+                    background-color: $color-GRID-Base-85;
+
+                }
+            }
+        }
+    }
+
+    tbody {
+        background-color: $color-GRID-Base-90;
+        font-weight: 500;
+        color: $color-GRID-Base-0;
+
+        tr {
+            td {
+                padding: 1rem;  
+            }
+        }
+
+        .grey-text {
+            font-weight: 600;
+            color: $color-GRID-Base-40;
+        }
+    }
+}

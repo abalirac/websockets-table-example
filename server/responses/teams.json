@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Sprout",
+    "primaryColor": "#34b454",
+    "secondaryColor": "#00360e",
+    "logoUrl": "https://team-logos/706851bd2d78abe94b3db592ba5fdb67"
+  },
+  {
+    "id": 2,
+    "name": "Red Reserve",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#400040",
+    "logoUrl": "https://team-logos/0304b33ec0316ea7b0fd50feff7bd7cb"
+  },
+  {
+    "id": 3,
+    "name": "Valiance",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#c29999",
+    "logoUrl": "https://team-logos/e7afed27c212cf39626d37ec74c0f95e"
+  },
+  {
+    "id": 4,
+    "name": "Windigo",
+    "primaryColor": "#7b53c2",
+    "secondaryColor": "#695e7c",
+    "logoUrl": "https:///team-logos/f07247147aeced1c8148fd2066e8280d"
+  },
+  {
+    "id": 5,
+    "name": "3DMAX",
+    "primaryColor": "#400040",
+    "secondaryColor": "#ff0000",
+    "logoUrl": "https://team-logos/24f404074ac51d8b177ff3ba5088881c"
+  },
+  {
+    "id": 6,
+    "name": "x6tence Galaxy",
+    "primaryColor": "#b713c3",
+    "secondaryColor": "#162b69",
+    "logoUrl": "https://team-logos/aade65a2c362c7e17c34af4f87dce3f8"
+  },
+  {
+    "id": 7,
+    "name": "AGO",
+    "primaryColor": "#c6c6c6",
+    "secondaryColor": "#fa0064",
+    "logoUrl": "https://team-logos/82913104ea8c389fb963c7a8f1334e04"
+  },
+  {
+    "id": 8,
+    "name": "HAVU",
+    "primaryColor": "#5ac440",
+    "secondaryColor": "#a8f5b5",
+    "logoUrl": "https:/team-logos/187ae38297a7ae519f65855b361aadd9"
+  },
+  {
+    "id": 9,
+    "name": "Tricked",
+    "primaryColor": "#b11935",
+    "secondaryColor": "#26253d",
+    "logoUrl": "https://team-logos/8db24a06c111c59535309b06697d1775"
+  },
+  {
+    "id": 10,
+    "name": "LDLC",
+    "primaryColor": "#012c71",
+    "secondaryColor": "#f50000",
+    "logoUrl": "https://team-logos/20056bedd20e4af76d812fa3309183c5"
+  },
+  {
+    "id": 11,
+    "name": "expert",
+    "primaryColor": "#ff8040",
+    "secondaryColor": "#bdb3b3",
+    "logoUrl": "https://team-logos/78a3ceff8008991c82c95610871257b6"
+  },
+  {
+    "id": 12,
+    "name": "Vexed",
+    "primaryColor": "#ab1212",
+    "secondaryColor": "#877878",
+    "logoUrl": "https://team-logos/97fabfaefb2359b20ed1356e5d73f4da"
+  },
+  {
+    "id": 13,
+    "name": "ALTERNATE aTTaX",
+    "primaryColor": "#400040",
+    "secondaryColor": "#ff1111",
+    "logoUrl": "https://team-logos/35302b73f3797cb49687355b4bd3e12c"
+  },
+  {
+    "id": 14,
+    "name": "EURONICS",
+    "primaryColor": "#0080c0",
+    "secondaryColor": "#ffff00",
+    "logoUrl": "https://team-logos/1ff3e1514f001f370a821b074a280636"
+  },
+  {
+    "id": 15,
+    "name": "Forward Gaming",
+    "primaryColor": "#0ae6e6",
+    "secondaryColor": "#ff0080",
+    "logoUrl": "https://team-logos/b62a457863d805021c798e92fef83043"
+  },
+  {
+    "id": 16,
+    "name": "J.Storm",
+    "primaryColor": "#8080ff",
+    "secondaryColor": "#5b015b",
+    "logoUrl": "https://team-logos/ae2b4e2fb08ab17250b1c1a3b6e25443"
+  },
+  {
+    "id": 17,
+    "name": "Team Xolotl",
+    "primaryColor": "#808080",
+    "secondaryColor": "#400040",
+    "logoUrl": "https://team-logos/b1d0701db26594be8177e2d2374c7af4"
+  },
+  {
+    "id": 18,
+    "name": "gg and gg",
+    "primaryColor": "#ff9900",
+    "secondaryColor": "#877d7d",
+    "logoUrl": "https://team-logos/a149d3ccd3d48ea6879425725f406084"
+  },
+  {
+    "id": 19,
+    "name": "Vega Academy",
+    "primaryColor": "#0083e8",
+    "secondaryColor": "#3c425d",
+    "logoUrl": "https://team-logos/b33916649df053139aa449dd61a8d6cf"
+  },
+  {
+    "id": 20,
+    "name": "LaGueuleDeBois",
+    "primaryColor": "#fffb8a",
+    "secondaryColor": "#8b236a",
+    "logoUrl": "https://team-logos/generic"
+  }
+]
